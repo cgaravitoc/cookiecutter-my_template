@@ -6,4 +6,4 @@ dependencies:
   - python
   - jupyter
   - cookiecutter=1.7.3
-prefix: /home/cgaravitoc/miniconda3/envs/platzi
+
